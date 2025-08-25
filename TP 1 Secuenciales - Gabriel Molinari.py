@@ -140,3 +140,4 @@ promedio = (num1 + num2 + num3) / 3
 
 print(f"\nEl promedio de los tres numeros es: {promedio:.2f}") """
 
+
